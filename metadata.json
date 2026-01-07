@@ -1,0 +1,5 @@
+{
+  "name": "Minimalist 3D City Runner",
+  "description": "An infinite 3D minimalist city runner where you explore streets, avoid buildings, and witness a dynamically generating urban environment.",
+  "requestFramePermissions": []
+}
